@@ -7,7 +7,7 @@ import pandas as pd
 import plotly.express as px
 from collections import Counter
 
-st.image("saletrail.png", width=300)
+st.image("https://i.imgur.com/XDjSiID.png", width=300)
 
 st.set_page_config(page_title="Etsy Analytics Dashboard", layout="wide")
 #st.logo("saletrail.png", icon_image="saletrail.png", size="large")
